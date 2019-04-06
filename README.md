@@ -1,4 +1,4 @@
-# pybitdb
+# pybitdb-btx
 
 This is an example of how to use BitDB and Bitsocket with Python. It assumes Python3 and provides two simple methods for interfacing with BitDB.
 
